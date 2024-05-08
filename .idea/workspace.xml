@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a91e8f6-11ae-4e6e-bd78-0922f82a06a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork1/FaceBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWork1/FaceBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork1/Syntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWork1/Syntax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Homework2/AdvanceXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework2/AdvanceXpath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Homework2/CssSelectorPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework2/CssSelectorPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Homework2/Xpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework2/Xpath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "yawata888"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yawata888&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/yawata888/SeleniumHW..git",
-    "accountId": "92316532-4fe9-4a57-b902-83f1c2f92554"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yawata888/SeleniumHW..git&quot;,
+    &quot;accountId&quot;: &quot;92316532-4fe9-4a57-b902-83f1c2f92554&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -55,34 +48,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AdvanceXpath.executor": "Run",
-    "Application.CssSelectorPractice.executor": "Run",
-    "Application.FaceBook.executor": "Run",
-    "Application.Syntax.executor": "Run",
-    "Application.Xpath.executor": "Run",
-    "Maven.SeleniumHW [clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdvanceXpath.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CssSelectorPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FaceBook.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Syntax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Xpath.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SeleniumHW [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="HomeWork1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FaceBook">
+  <component name="RunManager" selected="Application.CheckBoxes">
     <configuration name="AdvanceXpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework2.AdvanceXpath" />
       <module name="SeleniumHW" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork3.CheckBoxes" />
+      <module name="SeleniumHW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,19 +122,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Syntax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork1.Syntax" />
-      <module name="SeleniumHW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework2.Xpath" />
       <module name="SeleniumHW" />
@@ -144,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckBoxes" />
         <item itemvalue="Application.FaceBook" />
         <item itemvalue="Application.AdvanceXpath" />
         <item itemvalue="Application.CssSelectorPractice" />
         <item itemvalue="Application.Xpath" />
-        <item itemvalue="Application.Syntax" />
       </list>
     </recent_temporary>
   </component>
